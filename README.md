@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=800&color=FF1744&center=true&vCenter=true&width=900&lines=Hello+there!;I'm+Anirudh+Raj;Information+Systems+Major+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+Terraform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2500&pause=800&color=FF1744&center=true&vCenter=true&width=900&lines=Hello+there!;I'm+Anirudh+Raj;Information+Systems+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+Terraform)](https://git.io/typing-svg)
 
 **Data Engineer • MLOps Engineer • ML Engineer**
 
@@ -13,7 +13,7 @@ Boston, MA | Graduating May 2026
 
 ---
 
-## <span style="color:#FF1744">About</span>
+## About
 
 I build machine learning systems that actually ship to production. Over the past semester, I've implemented generative models from first principles, deployed production-grade cloud infrastructure, and built quantitative trading algorithms—all while maintaining a systematic, research-driven approach to problem-solving.
 
@@ -25,36 +25,7 @@ Currently seeking roles where I can apply this builder mindset to real-world dat
 
 ---
 
-## <span style="color:#FF1744">Featured Projects</span>
-
-### <span style="color:#FF1744">→</span> Dual-Architecture Text Generation: Transformers vs Diffusion
-
-Built 70M-parameter diffusion U-Net and encoder-decoder Transformer from scratch for comparative analysis. Engineered 60,426 training samples through n-gram extraction. **Innovation:** Weight-tied decoding using embedding transpose eliminates decoder networks.
-
-**Stack:** PyTorch • TensorFlow • Diffusers • CUDA  
-**Impact:** 87% loss reduction, 18% accuracy on 48,963 sequences
-
----
-
-### <span style="color:#FF1744">→</span> Production AWS Infrastructure with Serverless Pipeline
-
-Deployed 78 resources using Terraform IaC with zero-downtime CI/CD. Built event-driven email verification via SNS→Lambda→SendGrid. **Innovation:** Asynchronous orchestration replacing synchronous flows.
-
-**Stack:** AWS (EC2, Lambda, S3, RDS, SNS) • Terraform • Packer • Docker • Flask  
-**Impact:** Sub-100ms response, 85% latency reduction, 10-min deployments
-
----
-
-### <span style="color:#FF1744">→</span> TESLA Stock Trading Bot with Adaptive Risk Control
-
-Ensemble modeling reducing 99 features to 28 predictors. Built adaptive position-sizing with dynamic stop-loss. **Innovation:** Operationalizing prediction confidence into real-time trading rules.
-
-**Stack:** Python • Scikit-learn • Statsmodels • Pandas  
-**Impact:** 2.17 Sharpe ratio, 91% correlation, validated across 1,187 days
-
----
-
-## <span style="color:#FF1744">Tech Stack</span>
+## Tech Stack
 
 <div align="center">
 
@@ -95,11 +66,58 @@ Ensemble modeling reducing 99 features to 28 predictors. Built adaptive position
 
 ---
 
+## Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Dual-Architecture Text Generation
+**Transformers vs Diffusion**
+
+Built both from scratch, engineered 60K samples
+
+**Innovation:** Weight-tied decoding via embedding transpose
+
+**Impact:** 87% loss reduction
+
+PyTorch • TensorFlow • CUDA
+
+</td>
+<td width="33%" valign="top">
+
+### Cloud-Native AWS Infrastructure
+**Production-Grade Automation**
+
+78 resources, zero-downtime CI/CD
+
+**Innovation:** Serverless async pipeline
+
+**Impact:** 85% latency reduction
+
+AWS • Terraform • Docker • Flask
+
+</td>
+<td width="33%" valign="top">
+
+### TESLA Trading Bot
+**Adaptive Risk Control**
+
+99→28 features, ensemble modeling
+
+**Innovation:** Dynamic position-sizing
+
+**Impact:** 2.17 Sharpe ratio
+
+Scikit-learn • Statsmodels • Pandas
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
-
-**Building systems where machine learning meets production infrastructure**
 
 [raj.anir@northeastern.edu](mailto:raj.anir@northeastern.edu)
 
