@@ -1,8 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=FF1744&center=true&vCenter=true&width=900&lines=Hello+there;I'm+Anirudh+Raj;MS+Information+Systems+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+Terraform)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Anirudh%20Raj&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20ML%20Models%20+%20Production%20Infrastructure&descAlignY=55&descSize=20" width="100%"/>
 
-**Data Engineering • MLOps • Deep Learning**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=800&color=FF1744&center=true&vCenter=true&width=900&lines=Hello+there!;I'm+Anirudh+Raj;Information+Systems+Major+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+Terraform)](https://git.io/typing-svg)
+
+**Data Engineer • MLOps Engineer • ML Engineer**
 
 Boston, MA | Graduating May 2026
 
@@ -13,58 +15,48 @@ Boston, MA | Graduating May 2026
 
 ---
 
-## About
+## <span style="color:#FF1744">About</span>
 
-```python
-class AnirudhRaj:
-    def __init__(self):
-        self.location = "Boston, MA"
-        self.current = "MS Information Systems @ Northeastern"
-        self.focus = "Building ML models and deploying them to production"
-        
-    def what_i_build(self):
-        return {
-            "generative_models": "70M-parameter architectures from scratch",
-            "cloud_infrastructure": "Production-grade AWS systems with CI/CD",
-            "ml_pipelines": "End-to-end training and deployment automation"
-        }
-```
+I build machine learning systems that actually ship to production. Over the past semester, I've implemented generative models from first principles, deployed production-grade cloud infrastructure, and built quantitative trading algorithms—all while maintaining a systematic, research-driven approach to problem-solving.
+
+What sets my work apart is the rare combination of deep ML knowledge and production infrastructure expertise. I don't just train models in notebooks—I architect the AWS pipelines to deploy them, write the Terraform to provision resources, and build the CI/CD automation to ship updates without downtime. This dual capability stems from genuine curiosity about how systems work end-to-end, from gradient descent mathematics to load balancer health checks.
+
+My projects reflect a pattern: identify a hard problem, build a solution from scratch rather than relying on pre-built frameworks, validate rigorously with metrics, and iterate based on empirical results. Whether it's discovering that weight-tied decoding makes text diffusion viable, debugging teacher forcing to eliminate repetition, or engineering features that capture market dynamics—I prioritize understanding over implementation shortcuts.
+
+Currently seeking roles where I can apply this builder mindset to real-world data and ML infrastructure challenges. I thrive in environments that value systematic thinking, empirical validation, and the ability to translate research insights into production systems.
 
 ---
 
-## Featured Projects
+## <span style="color:#FF1744">Featured Projects</span>
 
-### Dual-Architecture Text Generation: Transformers vs Diffusion
-Comparative study building both architectures from first principles. Implemented custom 70M-parameter diffusion U-Net with novel weight-tied decoding strategy and encoder-decoder Transformer with multi-head attention. Engineered 60,426 training samples achieving 27.5x data amplification.
+### <span style="color:#FF1744">→</span> Dual-Architecture Text Generation: Transformers vs Diffusion
 
-**Core Innovation:** Weight-tied decoding using embedding matrix transpose eliminates separate decoder networks, enabling gradient flow to embedding layer.
+Built 70M-parameter diffusion U-Net and encoder-decoder Transformer from scratch for comparative analysis. Engineered 60,426 training samples through n-gram extraction. **Innovation:** Weight-tied decoding using embedding transpose eliminates decoder networks.
 
-**Stack:** PyTorch • TensorFlow • Hugging Face Diffusers • CUDA  
-**Impact:** 87% reconstruction loss reduction, 18% token accuracy on 48,963 sequences
+**Stack:** PyTorch • TensorFlow • Diffusers • CUDA  
+**Impact:** 87% loss reduction, 18% accuracy on 48,963 sequences
 
 ---
 
-### Cloud-Native AWS Application with Serverless Pipeline
-Production infrastructure handling 5,000 concurrent requests. Deployed 78 AWS resources using Terraform IaC with complete CI/CD automation via GitHub Actions. Built event-driven email verification using SNS→Lambda→SendGrid architecture.
+### <span style="color:#FF1744">→</span> Production AWS Infrastructure with Serverless Pipeline
 
-**Core Innovation:** Asynchronous serverless orchestration replacing synchronous verification flows, automated rolling deployments maintaining 90% healthy instances.
+Deployed 78 resources using Terraform IaC with zero-downtime CI/CD. Built event-driven email verification via SNS→Lambda→SendGrid. **Innovation:** Asynchronous orchestration replacing synchronous flows.
 
 **Stack:** AWS (EC2, Lambda, S3, RDS, SNS) • Terraform • Packer • Docker • Flask  
-**Impact:** Sub-100ms response times, 85% latency reduction, 10-minute deployment cycles
+**Impact:** Sub-100ms response, 85% latency reduction, 10-min deployments
 
 ---
 
-### TESLA Stock Trading Bot with Adaptive Risk Control
-Quantitative system using ensemble modeling (LASSO + HAC-corrected OLS) reducing 99 features to 28 significant predictors. Built adaptive position-sizing algorithm responding to prediction confidence, volatility, and VIX levels.
+### <span style="color:#FF1744">→</span> TESLA Stock Trading Bot with Adaptive Risk Control
 
-**Core Innovation:** Dynamic stop-loss rules (15% initial, 10% trailing) operationalizing market metrics into real-time trading decisions.
+Ensemble modeling reducing 99 features to 28 predictors. Built adaptive position-sizing with dynamic stop-loss. **Innovation:** Operationalizing prediction confidence into real-time trading rules.
 
-**Stack:** Python • Scikit-learn • Statsmodels • Pandas • NumPy  
-**Impact:** 2.17 Sharpe ratio, 91% correlation, validated across 1,187 trading days
+**Stack:** Python • Scikit-learn • Statsmodels • Pandas  
+**Impact:** 2.17 Sharpe ratio, 91% correlation, validated across 1,187 days
 
 ---
 
-## Tech Stack
+## <span style="color:#FF1744">Tech Stack</span>
 
 <div align="center">
 
@@ -106,6 +98,8 @@ Quantitative system using ensemble modeling (LASSO + HAC-corrected OLS) reducing
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
 **Building systems where machine learning meets production infrastructure**
 
