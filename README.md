@@ -1,80 +1,29 @@
 <div align="center">
 
-# Anirudh Raj
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=800&lines=Hello+there;MS+Information+Systems+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+Terraform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=DC143C&center=true&vCenter=true&width=900&lines=Hello+there;I'm+Anirudh+Raj;MS+Information+Systems+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+Terraform)](https://git.io/typing-svg)
 
 **Data Engineer • MLOps Engineer • ML Engineer**
 
 Boston, MA | Graduating May 2026
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhraj2000/)
-[![Email](https://img.shields.io/badge/raj.anir@northeastern.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raj.anir@northeastern.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhraj2000/)
+[![Email](https://img.shields.io/badge/raj.anir@northeastern.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raj.anir@northeastern.edu)
 
 </div>
 
 ---
 
-## Featured Work
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🧠 Dual-Architecture Text Generation
-**Shakespeare: Transformers vs Diffusion**
+| Project | Core Innovation | Impact |
+|---------|----------------|--------|
+| **Dual-Architecture Text Generation**<br/>*Transformers vs Diffusion Comparison* | Novel weight-tied decoding using embedding matrix transpose for vocabulary projection, eliminating separate decoder networks | 87% reconstruction loss reduction across 60,426 training samples |
+| **Cloud-Native AWS Infrastructure**<br/>*Production-Grade Automation* | Event-driven serverless pipeline with SNS→Lambda→SendGrid architecture replacing synchronous verification flows | 85% latency reduction, sub-100ms response under 5K concurrent requests |
+| **Adaptive Trading System**<br/>*Statistical Learning + Risk Control* | Ensemble modeling (LASSO + HAC-corrected OLS) with dynamic position-sizing responding to market volatility | 2.17 Sharpe ratio, 91% correlation, validated across 1,187 trading days |
 
-*Architected two generative models from first principles, discovering that weight-tied embeddings transform diffusion into a viable text generation approach while attention mechanisms reign supreme for semantic coherence.*
-
-**What makes it special:** Novel decoding strategy eliminating separate decoder networks by leveraging embedding matrix transpose for vocabulary projection.
-
-**Impact:** 87% reconstruction loss reduction across 60,426 training samples
-
-```
-PyTorch • TensorFlow • Diffusers • CUDA
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Production Cloud Infrastructure
-**Serverless + Zero-Downtime Automation**
-
-*Orchestrated 78 AWS resources into a resilient, self-healing system where infrastructure code and application deployments flow through automated pipelines without human intervention.*
-
-**What makes it special:** Event-driven serverless pipeline replacing synchronous verification with asynchronous Lambda orchestration.
-
-**Impact:** 85% latency reduction, sub-100ms response under 5K concurrent load
-
-```
-AWS • Terraform • Packer • Docker • GitHub Actions
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Adaptive Trading System
-**Statistical Learning + Risk Control**
-
-*Transformed 99 engineered features into 28 statistically significant predictors through ensemble modeling, then operationalized predictions into dynamic position-sizing rules validated across 3+ years of market data.*
-
-**What makes it special:** Adaptive algorithm responding to prediction confidence, volatility, and market conditions in real-time.
-
-**Impact:** 2.17 Sharpe ratio with 62% drawdown reduction (p<0.01)
-
-```
-Python • Scikit-learn • Statsmodels • Pandas
-```
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -99,7 +48,7 @@ Python • Scikit-learn • Statsmodels • Pandas
 
 <div align="center">
 
-**Building systems where machine learning meets production reality**
+**Building systems where machine learning meets production infrastructure**
 
 [raj.anir@northeastern.edu](mailto:raj.anir@northeastern.edu)
 
