@@ -1,31 +1,48 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=FF1744&center=true&vCenter=true&width=900&lines=Hello+there!;I'm+Anirudh+Raj;Information+Systems+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+Terraform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=FF1744&center=true&vCenter=true&width=900&lines=Hello+there!;I'm+Anirudh+Raj;Information+Systems+Major+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+Terraform)](https://git.io/typing-svg)
 
 **Data Engineer • MLOps Engineer • ML Engineer**
 
 Boston, MA | Graduating May 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhraj2000/)
-[![Email](https://img.shields.io/badge/raj.anir@northeastern.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raj.anir@northeastern.edu)
+[![Email](https://img.shields.io/badge/anirudhraj694@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anirudhraj694@gmail.com)
 
 </div>
 
 ---
 
-## About
+<h2 align="center" style="color:#FF1744">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  About
+</h2>
 
-I build machine learning systems that actually ship to production. Over the past semester, I've implemented generative models from first principles, deployed production-grade cloud infrastructure, and built quantitative trading algorithms—all while maintaining a systematic, research-driven approach to problem-solving.
-
-What sets my work apart is the rare combination of deep ML knowledge and production infrastructure expertise. I don't just train models in notebooks—I architect the AWS pipelines to deploy them, write the Terraform to provision resources, and build the CI/CD automation to ship updates without downtime. This dual capability stems from genuine curiosity about how systems work end-to-end, from gradient descent mathematics to load balancer health checks.
-
-My projects reflect a pattern: identify a hard problem, build a solution from scratch rather than relying on pre-built frameworks, validate rigorously with metrics, and iterate based on empirical results. Whether it's discovering that weight-tied decoding makes text diffusion viable, debugging teacher forcing to eliminate repetition, or engineering features that capture market dynamics—I prioritize understanding over implementation shortcuts.
-
-Currently seeking roles where I can apply this builder mindset to real-world data and ML infrastructure challenges. I thrive in environments that value systematic thinking, empirical validation, and the ability to translate research insights into production systems.
+```yaml
+profile:
+  focus: "Data insight to Model Finetuning and Infrastructure Design "
+  approach: "First principles → Empirical validation → Production deployment"
+  
+recent_work:
+  generative_ai: "70M-parameter Diffusion LM + Transformer architectures from scratch"
+  cloud_infrastructure: "78 AWS resources with zero-downtime CI/CD automation to manage a webapp with serverless email verification"  
+  quantitative_systems: "Adaptive trading bot validated across 1,187 days to decide upon inferred candlestick chart patterns"
+  
+areas_of_interest:
+  - "Leveraging AI to automate disaster recovery and fault tolerance in large scale devops pipelines"
+  - "Diffusion LMs as a way forward beyond the issue of sequential token dependency in transformers "
+  - "Anything data churned to the right engineered features: specially in finance"
+  
+current_status: "Seeking Data Engineer | MLOps | ML Engineer roles (May 2026)"
+location: "Boston, MA"
+```
 
 ---
 
-## Tech Stack
+<h2 align="center" style="color:#FF1744">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bef20w2o80ve0l4uceb79u1wa5m5n&rid=giphy.gif" width="35">
+  Tech Stack
+</h2>
 
 <div align="center">
 
@@ -66,50 +83,47 @@ Currently seeking roles where I can apply this builder mindset to real-world dat
 
 ---
 
-## Featured Projects
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+  Featured Projects
+</h2>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### Dual-Architecture Text Generation
 **Transformers vs Diffusion**
 
-Built both from scratch, engineered 60K samples
+*Implemented novel weight-tied decoding strategy using embedding matrix transpose to eliminate separate decoder networks, enabling gradient flow directly to the embedding layer and achieving 87% reconstruction loss reduction across dual generative architectures built from scratch.*
 
-**Innovation:** Weight-tied decoding via embedding transpose
+`PyTorch` `TensorFlow` `CUDA`
 
-**Impact:** 87% loss reduction
-
-PyTorch • TensorFlow • CUDA
+60,426 samples • 70M parameters
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### Cloud-Native AWS Infrastructure
-**Production-Grade Automation**
+### Cloud-Native Infrastructure
+**Zero-Downtime Automation**
 
-78 resources, zero-downtime CI/CD
+*Architected event-driven serverless pipeline replacing synchronous verification with asynchronous SNS→Lambda orchestration, while automating entire deployment lifecycle through Terraform IaC and GitHub Actions achieving 10-minute release cycles.*
 
-**Innovation:** Serverless async pipeline
+`AWS` `Terraform` `Docker` `Flask`
 
-**Impact:** 85% latency reduction
-
-AWS • Terraform • Docker • Flask
+78 resources • Sub-100ms response
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### TESLA Trading Bot
 **Adaptive Risk Control**
 
-99→28 features, ensemble modeling
+*Designed adaptive position-sizing algorithm that operationalizes prediction confidence, volatility, and market indicators into dynamic stop-loss rules, validated through rigorous 1,187-day backtest demonstrating statistical significance (p<0.01).*
 
-**Innovation:** Dynamic position-sizing
+`Scikit-learn` `Statsmodels` `Pandas`
 
-**Impact:** 2.17 Sharpe ratio
-
-Scikit-learn • Statsmodels • Pandas
+2.17 Sharpe • 91% correlation
 
 </td>
 </tr>
@@ -119,6 +133,6 @@ Scikit-learn • Statsmodels • Pandas
 
 <div align="center">
 
-[raj.anir@northeastern.edu](mailto:raj.anir@northeastern.edu)
+[anirudhraj694@gmail.com](mailto:anirudhraj694@gmail.com)
 
 </div>
