@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=FF1744&center=true&vCenter=true&width=900&lines=Hello+there!;I'm+Anirudh+Raj;Information+Systems+Major+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+Terraform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=FF1744&center=true&vCenter=true&width=900&lines=Hello+there!;I'm+Anirudh+Raj!!;Information+Systems+Major+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+Terraform)](https://git.io/typing-svg)
 
 **Data Engineering • DevOps • ML/DL**
 
@@ -87,7 +87,7 @@ location: "Boston, MA"
 
 <div align="center">
 
-![Featured Projects](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=400&lines=Featured+Projects)
+![Featured Projects](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1000&pause=99999&color=FFFFFF&center=true&vCenter=true&width=400&lines=Featured+Projects)
 
 </div>
 
@@ -97,7 +97,7 @@ location: "Boston, MA"
 
 <div align="center">
 
-![Project 1](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=300&lines=Dual-Architecture+Text+Generation)
+![Project 1](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=300&lines=Dual-Arch+Text+Generation)
 
 **Transformers vs Diffusion**
 
