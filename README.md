@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Anirudh%20Raj&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20ML%20Models%20+%20Production%20Infrastructure&descAlignY=55&descSize=20" width="100%"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=800&color=FF1744&center=true&vCenter=true&width=900&lines=Hello+there!;I'm+Anirudh+Raj;Information+Systems+Major+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+Terraform)](https://git.io/typing-svg)
 
 **Data Engineer • MLOps Engineer • ML Engineer**
