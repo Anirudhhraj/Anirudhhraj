@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=2500&pause=800&color=DC143C&center=true&vCenter=true&width=900&lines=Hello+there;I'm+Anirudh+Raj;MS+Information+Systems+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+Terraform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=800&color=DC143C&center=true&vCenter=true&width=900&lines=Hello+there;I'm+Anirudh+Raj;MS+Information+Systems+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+Terraform)](https://git.io/typing-svg)
 
 **Data Engineer • MLOps Engineer • ML Engineer**
 
