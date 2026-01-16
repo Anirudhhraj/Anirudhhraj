@@ -15,7 +15,7 @@ Boston, MA | Graduating May 2026
 
 <div align="center">
 
-![About](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=150&lines=About)
+![About](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1000&pause=99999&color=FFFFFF&center=true&vCenter=true&width=150&lines=About)
 
 </div>
 
