@@ -13,14 +13,15 @@ Boston, MA | Graduating May 2026
 
 ---
 
-<h2 align="center" style="color:#FF1744">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  About
-</h2>
+<div align="center">
+
+![About](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=150&lines=About)
+
+</div>
 
 ```yaml
 profile:
-  focus: "Data insight to Model Finetuning and Infrastructure Design "
+  focus: "Data insight to Model Finetuning and Infrastructure Design"
   approach: "First principles → Empirical validation → Production deployment"
   
 recent_work:
@@ -30,7 +31,7 @@ recent_work:
   
 areas_of_interest:
   - "Leveraging AI to automate disaster recovery and fault tolerance in large scale devops pipelines"
-  - "Diffusion LMs as a way forward beyond the issue of sequential token dependency in transformers "
+  - "Diffusion LMs as a way forward beyond the issue of sequential token dependency in transformers"
   - "Anything data churned to the right engineered features: specially in finance"
   
 current_status: "Seeking Data Engineer | MLOps | ML Engineer roles (May 2026)"
@@ -39,10 +40,11 @@ location: "Boston, MA"
 
 ---
 
-<h2 align="center" style="color:#FF1744">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bef20w2o80ve0l4uceb79u1wa5m5n&rid=giphy.gif" width="35">
-  Tech Stack
-</h2>
+<div align="center">
+
+![Tech Stack](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=250&lines=Tech+Stack)
+
+</div>
 
 <div align="center">
 
@@ -83,47 +85,72 @@ location: "Boston, MA"
 
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-  Featured Projects
-</h2>
+<div align="center">
+
+![Featured Projects](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=400&lines=Featured+Projects)
+
+</div>
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-### Dual-Architecture Text Generation
-**Transformers vs Diffusion**
+<div align="center">
 
-*Implemented novel weight-tied decoding strategy using embedding matrix transpose to eliminate separate decoder networks, enabling gradient flow directly to the embedding layer and achieving 87% reconstruction loss reduction across dual generative architectures built from scratch.*
+### <sub>Dual-Architecture Text Generation</sub>
+#### <sub>**Transformers vs Diffusion**</sub>
+
+</div>
+
+<sub><p align="justify"><i>Implemented novel weight-tied decoding strategy using embedding matrix transpose to eliminate separate decoder networks, enabling gradient flow directly to the embedding layer and achieving 87% reconstruction loss reduction across dual generative architectures built from scratch.</i></p></sub>
+
+<div align="center">
 
 `PyTorch` `TensorFlow` `CUDA`
 
-60,426 samples • 70M parameters
+**60,426 samples • 70M parameters**
+
+</div>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-### Cloud-Native Infrastructure
-**Zero-Downtime Automation**
+<div align="center">
 
-*Architected event-driven serverless pipeline replacing synchronous verification with asynchronous SNS→Lambda orchestration, while automating entire deployment lifecycle through Terraform IaC and GitHub Actions achieving 10-minute release cycles.*
+### <sub>Cloud-Native Infrastructure</sub>
+#### <sub>**Zero-Downtime Automation**</sub>
+
+</div>
+
+<sub><p align="justify"><i>Architected event-driven serverless pipeline replacing synchronous verification with asynchronous SNS→Lambda orchestration, while automating entire deployment lifecycle through Terraform IaC and GitHub Actions achieving 10-minute release cycles.</i></p></sub>
+
+<div align="center">
 
 `AWS` `Terraform` `Docker` `Flask`
 
-78 resources • Sub-100ms response
+**78 resources • Sub-100ms response**
+
+</div>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-### TESLA Trading Bot
-**Adaptive Risk Control**
+<div align="center">
 
-*Designed adaptive position-sizing algorithm that operationalizes prediction confidence, volatility, and market indicators into dynamic stop-loss rules, validated through rigorous 1,187-day backtest demonstrating statistical significance (p<0.01).*
+### <sub>TESLA Trading Bot</sub>
+#### <sub>**Adaptive Risk Control**</sub>
+
+</div>
+
+<sub><p align="justify"><i>Designed adaptive position-sizing algorithm that operationalizes prediction confidence, volatility, and market indicators into dynamic stop-loss rules, validated through rigorous 1,187-day backtest demonstrating statistical significance (p<0.01).</i></p></sub>
+
+<div align="center">
 
 `Scikit-learn` `Statsmodels` `Pandas`
 
-2.17 Sharpe • 91% correlation
+**2.17 Sharpe • 91% correlation**
+
+</div>
 
 </td>
 </tr>
