@@ -97,12 +97,13 @@ location: "Boston, MA"
 
 <div align="center">
 
-### <sub>Dual-Architecture Text Generation</sub>
-#### <sub>**Transformers vs Diffusion**</sub>
+![Project 1](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=300&lines=Dual-Architecture+Text+Generation)
+
+**Transformers vs Diffusion**
 
 </div>
 
-<sub><p align="justify"><i>Implemented novel weight-tied decoding strategy using embedding matrix transpose to eliminate separate decoder networks, enabling gradient flow directly to the embedding layer and achieving 87% reconstruction loss reduction across dual generative architectures built from scratch.</i></p></sub>
+<p align="justify">Implemented novel weight-tied decoding strategy using embedding matrix transpose to eliminate separate decoder networks, enabling gradient flow directly to the embedding layer and achieving 87% reconstruction loss reduction across dual generative architectures built from scratch.</p>
 
 <div align="center">
 
@@ -117,12 +118,13 @@ location: "Boston, MA"
 
 <div align="center">
 
-### <sub>Cloud-Native Infrastructure</sub>
-#### <sub>**Zero-Downtime Automation**</sub>
+![Project 2](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=300&lines=Cloud-Native+Infrastructure)
+
+**Zero-Downtime Automation**
 
 </div>
 
-<sub><p align="justify"><i>Architected event-driven serverless pipeline replacing synchronous verification with asynchronous SNS→Lambda orchestration, while automating entire deployment lifecycle through Terraform IaC and GitHub Actions achieving 10-minute release cycles.</i></p></sub>
+<p align="justify">Architected event-driven serverless pipeline replacing synchronous verification with asynchronous SNS→Lambda orchestration, while automating entire deployment lifecycle through Terraform IaC and GitHub Actions achieving 10-minute release cycles.</p>
 
 <div align="center">
 
@@ -137,12 +139,13 @@ location: "Boston, MA"
 
 <div align="center">
 
-### <sub>TESLA Trading Bot</sub>
-#### <sub>**Adaptive Risk Control**</sub>
+![Project 3](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=300&lines=TESLA+Trading+Bot)
+
+**Adaptive Risk Control**
 
 </div>
 
-<sub><p align="justify"><i>Designed adaptive position-sizing algorithm that operationalizes prediction confidence, volatility, and market indicators into dynamic stop-loss rules, validated through rigorous 1,187-day backtest demonstrating statistical significance (p<0.01).</i></p></sub>
+<p align="justify">Designed adaptive position-sizing algorithm that operationalizes prediction confidence, volatility, and market indicators into dynamic stop-loss rules, validated through rigorous 1,187-day backtest demonstrating statistical significance (p<0.01).</p>
 
 <div align="center">
 
