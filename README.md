@@ -37,78 +37,6 @@ class AnirudhRaj:
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Dual-Architecture Text Generation
-**70M Parameters | 60K Training Samples**
-
-- Built custom diffusion U-Net + Transformer from scratch
-- Novel weight-tied decoding: 87% loss reduction
-- Engineered 60,426 n-gram samples (27.5x amplification)
-- DDPM/DDIM schedulers, multi-head attention
-
-**Tech:** PyTorch | TensorFlow | Transformers | CUDA
-
-[🔗 View Project](#) | [📄 Paper](#)
-
-</td>
-<td width="50%">
-
-### ☁️ Cloud-Native AWS Application
-**78 Resources | Sub-100ms Response**
-
-- Zero-downtime CI/CD (10-min deployments)
-- Serverless pipeline: 85% latency reduction
-- 5-layer KMS encryption + cross-account AMI
-- Auto-scaling: 5K concurrent requests
-
-**Tech:** AWS | Terraform | Packer | Docker | Flask
-
-[🔗 View Project](#) | [📊 Infra Diagram](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📈 TESLA Stock Trading Bot
-**91% Accuracy | 2.17 Sharpe Ratio**
-
-- Ensemble modeling: LASSO + HAC-corrected OLS
-- Feature engineering: 99→28 significant predictors
-- 1,187-day backtest, 52% win rate (p<0.01)
-- Adaptive position-sizing with dynamic stop-loss
-
-**Tech:** Python | Scikit-learn | Statsmodels | Pandas
-
-[🔗 View Project](#) | [📉 Results](#)
-
-</td>
-<td width="50%">
-
-### 🔍 More Coming Soon...
-**Always Building**
-
-Working on:
-- LLM fine-tuning pipeline
-- Real-time data streaming with Kafka
-- MLOps platform with monitoring
-
-**Currently exploring:** LangChain | Vector DBs | Ray
-
-[💡 Ideas](https://github.com/Anirudhhraj?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -149,16 +77,6 @@ Working on:
 
 ---
 
-## 🎓 Education & Certifications
-
-**Northeastern University** | Boston, MA  
-*MS in Information Systems* | Sep 2024 - May 2026 | **GPA: 3.85**
-
-**BMS College of Engineering** | Bangalore, India  
-*BE in Information Science and Engineering* | Aug 2019 - Jun 2023 | **GPA: 3.85**
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -188,32 +106,6 @@ what_i_build:
   - name: "Quantitative Analytics Systems"
     example: "TESLA trading bot with ensemble modeling"
     impact: "2.17 Sharpe ratio, 91% correlation"
-
-why_hire_me:
-  unique_blend: "I build ML models AND deploy them to production"
-  proven_track: "3 production-grade projects in last 6 months"
-  quick_learner: "PyTorch + TensorFlow + AWS in one semester"
-  visa_status: "F-1 OPT (36-month work authorization available)"
 ```
 
 ---
-
-<div align="center">
-
-### 🔥 Current Focus
-
-Learning: LangChain, Vector Databases, Ray, Kubernetes  
-Building: MLOps pipeline for model deployment automation  
-Exploring: LLM fine-tuning, Real-time streaming architectures  
-
----
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Anirudhhraj&theme=tokyo-night)
-
-</div>
-
----
-
-<div align="center">
-<sub>⭐ If you find my work interesting, consider starring my repositories!</sub>
-</div>
