@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=FF1744&center=true&vCenter=true&width=900&lines=Hello+there!;I'm+Anirudh+Raj+👋;Information+Systems+Major+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+Terraform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=FF1744&center=true&vCenter=true&width=900&lines=Hello+there!;I'm+Anirudh+Raj+👋;Information+Systems+Major+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+GCP+%E2%80%A2+Kubernetes)](https://git.io/typing-svg)
 
-**Data Engineering • DevOps • ML/DL**
+**Data Engineering • MLOps • Cloud Infrastructure**
 
 Boston, MA | Graduating May 2026
 
@@ -21,20 +21,22 @@ Boston, MA | Graduating May 2026
 
 ```yaml
 profile:
-  focus: "Data insight to Model Finetuning and Infrastructure Design"
+  focus: "Data insight to Model Development and Production Infrastructure"
   approach: "First principles → Empirical validation → Production deployment"
   
 recent_work:
+  mlops_platform: "Production CI/CD with GitOps, Workload Identity, and versioned model registry on GKE"
   generative_ai: "70M-parameter Diffusion LM + Transformer architectures from scratch"
-  cloud_infrastructure: "78 AWS resources with zero-downtime CI/CD automation to manage a webapp with serverless email verification"  
-  quantitative_systems: "Adaptive trading bot validated across 1,187 days to decide upon inferred candlestick chart patterns"
+  cloud_infrastructure: "78 AWS resources with zero-downtime automation and serverless orchestration"
+  quantitative_systems: "Adaptive trading bot validated across 1,187 days of market data"
   
 areas_of_interest:
-  - "Leveraging AI to automate disaster recovery and fault tolerance in large scale devops pipelines"
-  - "Diffusion LMs as a way forward beyond the issue of sequential token dependency in transformers"
-  - "Anything data churned to the right engineered features: specially in finance"
+  - "Production ML systems: model versioning, deployment automation, and observability at scale"
+  - "Diffusion LMs as architectural alternatives to autoregressive transformers"
+  - "Infrastructure-as-code for fault-tolerant distributed systems"
+  - "Feature engineering for financial ML: volatility modeling and risk quantification"
   
-current_status: "Seeking Data Engineer | MLOps | ML Engineer roles (May 2026)"
+current_status: "Seeking MLOps Engineer | Data Engineer | ML Infrastructure roles (May 2026)"
 location: "Boston, MA"
 ```
 
@@ -63,12 +65,15 @@ location: "Boston, MA"
 ![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### Cloud & DevOps
+### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Data Engineering
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -158,6 +163,26 @@ location: "Boston, MA"
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+![Ongoing Work](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=1000&pause=99999&color=FFD700&center=true&vCenter=true&width=350&lines=Ongoing+Work)
+
+</div>
+
+**Production MLOps Platform - Shakespeare Sonnet Generator**
+
+<small>Building enterprise-grade ML inference platform on GKE demonstrating production patterns: model artifact separation (GCS versioning), GitOps deployment with automated rollback, Workload Identity for credential-free authentication, and comprehensive CI/CD pipeline. Achieved 88% Docker image size reduction through model-code decoupling, enabling independent versioning and A/B testing infrastructure. Implements microservices architecture (Diffusion + Transformer + Gateway) with private networking, auto-scaling node pools, and intelligent smoke testing for zero-downtime deployments.</small>
+
+<div align="center">
+
+`Kubernetes` `GKE` `Terraform` `GCS` `Docker Compose` `Workload Identity` `GitOps`
+
+**3-min CI feedback • 8-min CD deployment • Rolling updates with automated rollback**
+
+</div>
 
 ---
 
