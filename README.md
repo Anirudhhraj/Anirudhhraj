@@ -1,43 +1,3 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=FF1744&center=true&vCenter=true&width=900&lines=Hello+there!;I'm+Anirudh+Raj+👋;Information+Systems+Major+%40+Northeastern;Building+ML+Models+%2B+Production+Infrastructure;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+AWS+%E2%80%A2+Terraform)](https://git.io/typing-svg)
-
-**Data Engineering • DevOps • ML/DL**
-
-Boston, MA | Graduating May 2026
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhraj2000/)
-[![Email](https://img.shields.io/badge/anirudhraj694@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anirudhraj694@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-![About](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1000&pause=99999&color=FFFFFF&center=true&vCenter=true&width=150&lines=About)
-
-</div>
-
-```yaml
-profile:
-  focus: "Data insight to Model Finetuning and Infrastructure Design"
-  approach: "First principles → Empirical validation → Production deployment"
-  
-recent_work:
-  generative_ai: "70M-parameter Diffusion LM + Transformer architectures from scratch"
-  cloud_infrastructure: "78 AWS resources with zero-downtime CI/CD automation to manage a webapp with serverless email verification"  
-  quantitative_systems: "Adaptive trading bot validated across 1,187 days to decide upon inferred candlestick chart patterns"
-  
-areas_of_interest:
-  - "Leveraging AI to automate disaster recovery and fault tolerance in large scale devops pipelines"
-  - "Diffusion LMs as a way forward beyond the issue of sequential token dependency in transformers"
-  - "Anything data churned to the right engineered features: specially in finance"
-  
-current_status: "Seeking Data Engineer | MLOps | ML Engineer roles (May 2026)"
-location: "Boston, MA"
-```
-
 ---
 
 <div align="center">
@@ -63,12 +23,15 @@ location: "Boston, MA"
 ![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### Cloud & DevOps
+### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Data Engineering
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -97,19 +60,19 @@ location: "Boston, MA"
 
 <div align="center">
 
-![Project 1](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=300&lines=Dual-Arch+Text+Generation)
+![Project 1](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=280&lines=MLOps+Production+Pipeline)
 
-**Transformers vs Diffusion**
+**Shakespeare Generator**
 
 </div>
 
-<p align="justify">Implemented novel weight-tied decoding strategy using embedding matrix transpose to eliminate separate decoder networks, enabling gradient flow directly to the embedding layer and achieving 87% reconstruction loss reduction across dual generative architectures built from scratch.</p>
+<p align="justify"><small>Production MLOps platform with GitOps CI/CD, Workload Identity authentication, and versioned model registry. Separated model artifacts from Docker images (88% size reduction), enabling independent model versioning and A/B testing infrastructure. Implements rolling deployments with automated smoke tests and rollback capabilities.</small></p>
 
 <div align="center">
 
-`PyTorch` `TensorFlow` `CUDA`
+<small>`Kubernetes` `GKE` `Terraform` `GCS` `Docker Compose`</small>
 
-**60,426 samples • 70M parameters**
+**3-min CI • GitOps deployment**
 
 </div>
 
@@ -118,19 +81,19 @@ location: "Boston, MA"
 
 <div align="center">
 
-![Project 2](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=300&lines=Cloud-Native+Infrastructure)
+![Project 2](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=280&lines=Dual-Arch+Text+Diffusion)
 
-**Zero-Downtime Automation**
+**Transformers vs Diffusion LMs**
 
 </div>
 
-<p align="justify">Architected event-driven serverless pipeline replacing synchronous verification with asynchronous SNS→Lambda orchestration, while automating entire deployment lifecycle through Terraform IaC and GitHub Actions achieving 10-minute release cycles.</p>
+<p align="justify"><small>Novel weight-tied decoding using embedding matrix transpose eliminates separate decoder networks, enabling direct gradient flow to embeddings. Comparative implementation of 70M-parameter Diffusion (DDIM sampling) and 65M-parameter Transformer (multi-head attention) achieving 87% loss reduction on Shakespeare corpus.</small></p>
 
 <div align="center">
 
-`AWS` `Terraform` `Docker` `Flask`
+<small>`PyTorch` `TensorFlow` `CUDA` `Microservices`</small>
 
-**78 resources • Sub-100ms response**
+**60K samples • 18% token accuracy**
 
 </div>
 
@@ -139,21 +102,63 @@ location: "Boston, MA"
 
 <div align="center">
 
-![Project 3](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=300&lines=TESLA+Trading+Bot)
+![Project 3](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=280&lines=Zero-Downtime+AWS+Platform)
 
-**Adaptive Risk Control**
+**Event-Driven Architecture**
 
 </div>
 
-<p align="justify">Designed adaptive position-sizing algorithm that operationalizes prediction confidence, volatility, and market indicators into dynamic stop-loss rules, validated through rigorous 1,187-day backtest demonstrating statistical significance (p<0.01).</p>
+<p align="justify"><small>Event-driven serverless pipeline with asynchronous SNS→Lambda orchestration replacing synchronous verification flows. Terraform-managed infrastructure (78 AWS resources) with GitHub Actions CI/CD achieving 10-minute deployment cycles and automated rollback on health check failures.</small></p>
 
 <div align="center">
 
-`Scikit-learn` `Statsmodels` `Pandas`
+<small>`AWS` `Terraform` `Lambda` `SNS` `Docker`</small>
 
-**2.17 Sharpe • 91% correlation**
+**Sub-100ms latency • Blue-green deploy**
 
 </div>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<div align="center">
+
+![Project 4](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=280&lines=Quantitative+Trading+System)
+
+**TESLA Adaptive Bot**
+
+</div>
+
+<p align="justify"><small>Adaptive position-sizing algorithm operationalizing prediction confidence, volatility regime detection, and technical indicators into dynamic risk controls. Validated through 1,187-day backtest with statistical significance (p<0.01), achieving 2.17 Sharpe ratio and 91% correlation to benchmark.</small></p>
+
+<div align="center">
+
+<small>`Scikit-learn` `Statsmodels` `Pandas` `TA-Lib`</small>
+
+**1,187 days • 2.17 Sharpe ratio**
+
+</div>
+
+</td>
+<td width="66%" valign="top" colspan="2">
+
+<div align="center">
+
+![Stats](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=1000&pause=99999&color=FF1744&center=true&vCenter=true&width=280&lines=Current+Focus)
+
+</div>
+
+<p align="justify"><small>
+
+**Building production ML infrastructure** with focus on model lifecycle management, cost-optimized inference serving, and declarative GitOps workflows. Recent work includes implementing Workload Identity for credential-free GCP authentication, designing model versioning strategies with GCS artifact stores, and building comprehensive CI/CD pipelines with intelligent rollback logic.
+
+**Exploring diffusion models** as architectural alternatives to autoregressive transformers, particularly for tasks requiring explicit structural control and length consistency. Investigating trade-offs between iterative refinement (diffusion) and single-pass generation (transformers) for production text generation systems.
+
+**Interested in opportunities** involving ML platform engineering, data pipeline architecture, or infrastructure automation for distributed systems. Open to roles emphasizing production ML deployment, cost optimization, and developer velocity improvements.
+
+</small></p>
 
 </td>
 </tr>
